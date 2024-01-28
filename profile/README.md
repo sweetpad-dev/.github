@@ -8,4 +8,4 @@ The long-term goal is to make VSCode as a viable alternative to Xcode for iOS de
  - **[SweetPad Twitter](https://twitter.com/sweetpad_dev)**
 
 
-![Screenshot](./screenshot.png)
+![Screenshot](./profile/screenshot.png)
