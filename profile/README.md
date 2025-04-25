@@ -8,4 +8,4 @@ The long-term goal is to make VSCode a viable alternative to Xcode for iOS devel
  - **[SweetPad Twitter](https://twitter.com/sweetpad_dev)**
  - **[SweetPad LinkedIn](https://www.linkedin.com/company/106881369/)**
 
-** 🍭 Sweetpad Documentation: (https://www.linkedin.com/company/106881369/)**
+**[🍭 Sweetpad Documentation](https://www.linkedin.com/company/106881369/)**
